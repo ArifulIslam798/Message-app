@@ -1,0 +1,1035 @@
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\appsettings.json
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.staticwebassets.runtime.json
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.exe
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.deps.json
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.runtimeconfig.json
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.pdb
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.csproj.AssemblyReference.cache
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.AssemblyInfoInputs.cache
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.AssemblyInfo.cs
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.RazorAssemblyInfo.cache
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.RazorAssemblyInfo.cs
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets\msbuild.Messaging_with_FileSharing_Software.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets\msbuild.build.Messaging_with_FileSharing_Software.props
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Messaging_with_FileSharing_Software.props
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Messaging_with_FileSharing_Software.props
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\scopedcss\bundle\Messaging_with_FileSharing_Software.styles.css
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.csproj.CopyComplete
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\refint\Messaging_with_FileSharing_Software.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.pdb
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.genruntimeconfig.cache
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\ref\Messaging_with_FileSharing_Software.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\MessagePack.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAB104-09\Desktop\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\appsettings.Development.json
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\appsettings.json
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.staticwebassets.runtime.json
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.exe
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.deps.json
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.runtimeconfig.json
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.pdb
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Humanizer.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\MessagePack.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Common.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.csproj.AssemblyReference.cache
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.GeneratedMSBuildEditorConfig.editorconfig
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.AssemblyInfoInputs.cache
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.AssemblyInfo.cs
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.csproj.CoreCompileInputs.cache
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.MvcApplicationPartsAssemblyInfo.cache
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.RazorAssemblyInfo.cache
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.RazorAssemblyInfo.cs
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets.build.json
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets.development.json
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\scopedcss\bundle\Messaging_with_FileSharing_Software.styles.css
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.csproj.CopyComplete
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\refint\Messaging_with_FileSharing_Software.dll
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.pdb
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.genruntimeconfig.cache
+E:\Local Disk F_101220221819\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\ref\Messaging_with_FileSharing_Software.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\appsettings.Development.json
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\appsettings.json
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.staticwebassets.runtime.json
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.exe
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.deps.json
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.runtimeconfig.json
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.pdb
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Humanizer.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\MessagePack.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Build.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Common.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.csproj.AssemblyReference.cache
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.GeneratedMSBuildEditorConfig.editorconfig
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.AssemblyInfoInputs.cache
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.AssemblyInfo.cs
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.csproj.CoreCompileInputs.cache
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.MvcApplicationPartsAssemblyInfo.cache
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.RazorAssemblyInfo.cache
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.RazorAssemblyInfo.cs
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets\msbuild.Messaging_with_FileSharing_Software.Microsoft.AspNetCore.StaticWebAssets.props
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets\msbuild.build.Messaging_with_FileSharing_Software.props
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Messaging_with_FileSharing_Software.props
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Messaging_with_FileSharing_Software.props
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets.pack.json
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets.build.json
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets.development.json
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\scopedcss\bundle\Messaging_with_FileSharing_Software.styles.css
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.csproj.CopyComplete
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\refint\Messaging_with_FileSharing_Software.dll
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.pdb
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.genruntimeconfig.cache
+E:\IsDB\M3\Mosfiqure Rahman_1268474\Signal R\1268474\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\ref\Messaging_with_FileSharing_Software.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\appsettings.Development.json
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\appsettings.json
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.staticwebassets.runtime.json
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.exe
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.deps.json
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.runtimeconfig.json
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Messaging_with_FileSharing_Software.pdb
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Humanizer.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\MessagePack.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Build.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Common.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.csproj.AssemblyReference.cache
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.GeneratedMSBuildEditorConfig.editorconfig
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.AssemblyInfoInputs.cache
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.AssemblyInfo.cs
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.csproj.CoreCompileInputs.cache
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.MvcApplicationPartsAssemblyInfo.cache
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.RazorAssemblyInfo.cache
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.RazorAssemblyInfo.cs
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets\msbuild.Messaging_with_FileSharing_Software.Microsoft.AspNetCore.StaticWebAssets.props
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets\msbuild.build.Messaging_with_FileSharing_Software.props
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Messaging_with_FileSharing_Software.props
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Messaging_with_FileSharing_Software.props
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets.pack.json
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets.build.json
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\staticwebassets.development.json
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\scopedcss\bundle\Messaging_with_FileSharing_Software.styles.css
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.csproj.CopyComplete
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\refint\Messaging_with_FileSharing_Software.dll
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.pdb
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\Messaging_with_FileSharing_Software.genruntimeconfig.cache
+D:\1270809\Messaging_with_FileSharing_Software\Messaging_with_FileSharing_Software\obj\Debug\net6.0\ref\Messaging_with_FileSharing_Software.dll
